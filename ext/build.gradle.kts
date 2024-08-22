@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "com.yangchoi.ext"
-version = "1.0.0"
+version = "1.0.2"
 afterEvaluate {
     publishing {
         publications {
